@@ -27,7 +27,7 @@ export const HeroSection = () => {
                     <p className="font-mono text-emerald-400">Olá, meu nome é</p>
                     <h2 className="text-4xl font-medium mt-2">Joedson de Amorim</h2>
                     <p className="text-gray-400 my-6 text-sm sm:text-base">
-                        Olá, meu nome é <strong>Joedson de Amorim</strong> e sou um desenvolvedor de software full stack apaixonado por tecnologia. Com mais de <strong>1 ano de experiência.</strong> Meu objetivo é desenvolver aplicações e páginas com interfaces bonitas e funcionais, além de fazer parte de equipes técnicas em projetos desafiadores. Estou sempre aberto a novas oportunidades e desafios.
+                        Olá, meu nome é <strong>Joedson de Amorim</strong> e sou um desenvolvedor de software full stack apaixonado por tecnologia. Com mais de <strong>9 meses de experiência.</strong> Meu objetivo é desenvolver aplicações e páginas com interfaces bonitas e funcionais, além de fazer parte de equipes técnicas em projetos desafiadores. Estou sempre aberto a novas oportunidades e desafios.
                     </p>
 
                     <div className="flex flex-wrap gap-x-2 gap-y-3 lg:max-w-[340px]">
