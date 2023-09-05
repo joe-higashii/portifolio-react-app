@@ -6,15 +6,15 @@ import { TbBrandGithub, TbBrandLinkedin, TbBrandWhatsapp } from 'react-icons/tb'
 
 const MOCK_CONTACTS = [
     {
-        url: 'https://github.com',
+        url: 'https://github.com/joe-higashii',
         icon: <TbBrandGithub />
     },
     {
-        url: 'https://linkedin.com.br',
+        url: 'https://www.linkedin.com/in/joedson-mendes-de-amorim/',
         icon: <TbBrandLinkedin />
     },
     {
-        url: 'https://whatsapp.com.br',
+        url: 'https://wa.me/5521965671305',
         icon: <TbBrandWhatsapp />
     }
 ]
