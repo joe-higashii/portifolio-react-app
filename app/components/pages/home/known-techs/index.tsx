@@ -1,8 +1,9 @@
-import { TbBrandCss3, TbBrandHtml5, TbBrandJavascript, TbBrandNextjs, TbBrandReact, TbBrandTypescript } from "react-icons/tb"
+import { TbBrandCss3, TbBrandHtml5, TbBrandJavascript, TbBrandNextjs, TbBrandReact, TbBrandTypescript, TbBrandBootstrap } from "react-icons/tb"
 import { FaJava, FaNode } from 'react-icons/fa';
 import { BiLogoPostgresql } from 'react-icons/bi';
 import { BsGit } from 'react-icons/bs';
-import { SectionTitle } from "../../section-title"
+import { SiSpringboot } from 'react-icons/si';
+import { SectionTitle } from "../../../section-title"
 import { KnownTech } from "./known-tech"
 
 export const KnownTechs = () => {
@@ -60,6 +61,16 @@ export const KnownTechs = () => {
                     {
                         icon: <BsGit />,
                         name: 'GIT',
+                        startDate: '2023-01-01',
+                    },
+                    {
+                        icon: <TbBrandBootstrap />,
+                        name: 'Bootstrap',
+                        startDate: '2023-01-01',
+                    },
+                    {
+                        icon: <SiSpringboot />,
+                        name: 'Springboot',
                         startDate: '2023-01-01',
                     },
                 ].map((tech, index) => (

@@ -21,6 +21,7 @@ export const HighLightedProjects = () => {
                         Se interessou?
                     </span>
                     <Link href="/projects" className="inline-flex">
+                        Ver todos
                         <HiArrowNarrowRight />
                     </Link>
                 </p>
